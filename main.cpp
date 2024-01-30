@@ -6,6 +6,6 @@ int main() {
 	
 		
 	
-	
+	System("pause");
 	return 0;
 }
